@@ -1,0 +1,32 @@
+#eu {
+    border-radius: 180px;
+    width: 90%;
+    margin-left: 13px;
+    margin-top: 20px;
+}
+.titulo {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#titulo_nome {
+    text-align:start;
+}
+#titulo_sobrenome {
+    text-align:end;
+}
+
+.corpo {
+    margin-left: 10px;
+    background:#E0D6FF
+  
+}
+
+#lateral {
+    background:#247cc7;
+    color: white;
+}
+
+.icon {
+    margin-left: 20px;
+}
